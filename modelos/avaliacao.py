@@ -4,5 +4,4 @@ class Avaliacao():
         self._cliente = cliente.title()
         self._nota = nota
 
-    # NOTA MAXIMA SEJA 5.0 #
     
